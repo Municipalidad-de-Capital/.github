@@ -1,2 +1,2 @@
-# .github
-Repositorio especial utilizado por el Municipio para desplegar la información general de entrada.
+# Innovación - Municipalidad de Capital
+Bienvenidos a la página inical de repositorios de GitHub del área de Innovación de la Municipalidad de Capital.
